@@ -25,3 +25,32 @@ The dataset provided to you for this project was curated by the NIH specifically
 The data is mounted in the Udacity Jupyter GPU workspace provided to you, along with code to load the data. Alternatively, you can download the data from the <a href="https://www.kaggle.com/nih-chest-xrays/data">kaggle website</a> and run it locally. You are STRONGLY recommended to complete the project using the Udacity workspace since the data is huge, and you will need GPU to accelerate the training process.
 
 There are 112,120 X-ray images with disease labels from 30,805 unique patients in this dataset. The disease labels were created using Natural Language Processing (NLP) to mine the associated radiological reports. The labels include 14 common thoracic pathologies:
+
+• Atelectasis
+
+• Consolidation
+
+• Infiltration
+
+• Pneumothorax
+
+• Edema
+
+• Emphysema
+
+• Fibrosis
+
+• Effusion
+
+• Pneumonia
+
+• Pleural thickening
+
+• Cardiomegaly
+
+• Nodule
+
+• Mass
+
+• Hernia
+
