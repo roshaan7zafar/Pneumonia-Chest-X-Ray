@@ -57,3 +57,9 @@ There are 112,120 X-ray images with disease labels from 30,805 unique patients i
 The biggest limitation of this dataset is that image labels were NLP-extracted so there could be some erroneous labels but the NLP labeling accuracy is estimated to be >90%.
 
 The original radiology reports are not publicly available but you can find more details on the labeling process <a href="https://arxiv.org/abs/1705.02315">here.</a>
+
+### Dataset Contents:
+1. 112,120 frontal-view chest X-ray PNG images in 1024*1024 resolution (under images folder)
+
+2. Meta data for all images (Data_Entry_2017.csv): Image Index, Finding Labels, Follow-up #, Patient ID, Patient Age, Patient Gender, View Position, Original Image Size and Original Image Pixel Spacing.
+
