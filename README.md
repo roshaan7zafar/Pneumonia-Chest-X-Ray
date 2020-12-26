@@ -54,3 +54,6 @@ There are 112,120 X-ray images with disease labels from 30,805 unique patients i
 
 • Hernia
 
+The biggest limitation of this dataset is that image labels were NLP-extracted so there could be some erroneous labels but the NLP labeling accuracy is estimated to be >90%.
+
+The original radiology reports are not publicly available but you can find more details on the labeling process <a href="https://arxiv.org/abs/1705.02315">here.</a>
