@@ -93,3 +93,10 @@ Training and validating Datasets
 
 From your findings in the EDA component of this project, curate the appropriate training and validation sets for classifying pneumonia. Be sure to take the following into consideration:
 
+  • Distribution of diseases other than pneumonia that are present in both datasets
+  
+  • Demographic information, image view positions, and number of images per patient in each set
+  
+  • Distribution of pneumonia-positive and pneumonia-negative cases in each dataset
+  
+
