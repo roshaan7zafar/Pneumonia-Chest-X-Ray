@@ -63,3 +63,26 @@ The original radiology reports are not publicly available but you can find more 
 
 2. Meta data for all images (Data_Entry_2017.csv): Image Index, Finding Labels, Follow-up #, Patient ID, Patient Age, Patient Gender, View Position, Original Image Size and Original Image Pixel Spacing.
 
+## Project Steps
+
+### 1. Exploratory Data Analysis
+
+The first part of this project will involve exploratory data analysis (EDA) to understand and describe the content and nature of the data.
+
+Note that much of the work performed during your EDA will enable the completion of the final component of this project which is focused on documentation of your algorithm for the FDA. This is described in a later section, but some important things to focus on during your EDA may be:
+
+ • The patient demographic data such as gender, age, patient position,etc. (as it is available)
+  
+ • The x-ray views taken (i.e. view position)
+
+ • The number of cases including:
+	
+   ○ number of pneumonia cases,
+   
+   ○ number of non-pneumonia cases
+
+ • The distribution of other diseases that are comorbid with pneumonia
+ • Number of disease per patient
+ • Pixel-level assessments of the imaging data for healthy & disease states of interest (e.g. histograms of intensity values) and compare distributions across diseases.
+
+
